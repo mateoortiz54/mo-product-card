@@ -22,9 +22,9 @@ export const ProductTitle = ({title, className, style}: Props) => {
       <span 
         className={`${styles.productDescription} ${className}`}
         style={style}
-        >{
-        title? title: product.title
-      }</span>
+        >
+          {title? title: product.title}
+        </span>
       )
   }
   

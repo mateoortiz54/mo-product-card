@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el ProductImage debe de mostrar el componente correctamente con la imagen personalizada 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Hola Mundo
+  </h1>
+</div>
+`;
+
+exports[`Pruebas en el ProductImage debe de mostrar el componente correctamente con la imagen personalizada 2`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Hola Mundo
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+</div>
+`;
